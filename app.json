@@ -7,22 +7,22 @@
    "env": {
       "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "10608382",
         "required": true
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "ea04136e7acb517f48ccf8425ca99243",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Bot Token",
-        "value": "",
+        "value": "6990903871:AAG6_ZtvyUuwJP29Ch2Wfll9eOj36aLYdFE",
         "required": true
       },      
       "SUDO": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "6847035361",
             "required": true  
       }
    },
